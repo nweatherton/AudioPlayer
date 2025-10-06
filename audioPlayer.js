@@ -23,12 +23,6 @@ document.addEventListener("DOMContentLoaded", () => {
             cover: "rr.png",
             file: "rr.mp3",
         },
-        {
-            title: "NoahVideo",
-            genre: "Peak",
-            cover: "noah.png",
-            file: "video.mp3",
-        },
     ];
 
     let current = 0;
